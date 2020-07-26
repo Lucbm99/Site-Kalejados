@@ -1,2 +1,2 @@
-Site made in Wordpress for an NGO called Kalejados, which performs various bike tours and charity events.
+Site made in WordPress for an NGO called Kalejados, which performs various bike tours and charity events.
 
